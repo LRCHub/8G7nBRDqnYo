@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "さだめ",
+  "base_artist": "Lir.E",
+  "createdAt": "2025-12-10T05:57:05.874641Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さだめ",
+      "artist": "First place",
+      "has_synced": true,
+      "path": "select/01_さだめ_First_place.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "集結の運命(さだめ)",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/02_集結の運命(さだめ)_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "集結の運命(さだめ) [instrumental]",
+      "artist": "林原めぐみ",
+      "has_synced": false,
+      "path": "select/03_集結の運命(さだめ)_[instrumental]_林原めぐみ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "集結の運命(さだめ)",
+      "artist": "Megumi Hayashibara",
+      "has_synced": true,
+      "path": "select/04_集結の運命(さだめ)_Megumi_Hayashibara.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さだめ",
+      "artist": "Lir.E",
+      "has_synced": false,
+      "path": "select/pl_01_さだめ_Lir.E.txt"
+    }
+  ]
+}
